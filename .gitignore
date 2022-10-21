@@ -1,5 +1,6 @@
 # Object files
 *.o
+nouveau_fichier_2.txt
 
 # Libraries
 *.lib
